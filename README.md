@@ -1,4 +1,4 @@
-### iOS 개발자를 목표로 공부하는 임정상 👨‍💻
+### iOS 개발자를 목표로 공부하는 임정상입니다 👨‍💻
 -------------------------
 
 ![Jungsang Lim github stats](https://github-readme-stats.vercel.app/api?username=JungsangLim&show_icons=true)
