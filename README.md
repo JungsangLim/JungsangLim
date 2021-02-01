@@ -1,5 +1,5 @@
 ### iOS 개발자를 목표로 공부하는 Ethan(임정상)입니다 👨‍💻
-### 기술 블로그 바로가기 [Ethan_dev](https://jungsanglim.tistory.com/)
+### 블로그 바로가기 [Ethan_dev](https://jungsanglim.tistory.com/)
 -------------------------
 
 ![Jungsang Lim github stats](https://github-readme-stats.vercel.app/api?username=JungsangLim&show_icons=true)
