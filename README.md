@@ -1,7 +1,7 @@
 ### iOS 개발자를 목표로 공부하는 ethan입니다 👨‍💻
 -------------------------
 
-![Jungsang Lim github stats](https://github-readme-stats.vercel.app/api?username=JungsangLim&show_icons=true)
+![ethan_dev github stats](https://github-readme-stats.vercel.app/api?username=JungsangLim&show_icons=true)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjaemuYeo&count_bg=%233DC4C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
